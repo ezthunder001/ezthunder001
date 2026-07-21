@@ -18,6 +18,7 @@ Now building the computational + software side: Python, ML surrogates, building 
 - **[rc-coating-ml](https://github.com/ezthunder001/rc-coating-ml)** — Predicting ΔT performance of radiative cooling coatings from lab data (LFA, FTIR) using ML.
 - **[fesem-viewer](https://github.com/ezthunder001/fesem-viewer)** — SEM/FESEM TIFF session folder → interactive HTML comparison grid. Single-script Python + Pillow tool built for actual lab workflow.
 - **[bangkok-weather-aqi](https://github.com/ezthunder001/bangkok-weather-aqi)** — Bangkok weather/AQI analytics dashboard (in progress).
+- **[flavour-fingerprint](https://github.com/ezthunder001/flavour-fingerprint)** — Literature-mined coffee x yeast fermentation dataset + honest-null flavour-prediction model.
 
 ---
 
