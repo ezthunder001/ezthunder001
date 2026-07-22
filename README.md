@@ -21,6 +21,7 @@ Now building the computational + software side: Python, ML surrogates, building 
 - **[flavour-fingerprint](https://github.com/ezthunder001/flavour-fingerprint)** — Literature-mined coffee x yeast fermentation dataset + honest-null flavour-prediction model.
 - **[spectra-parser](https://github.com/ezthunder001/spectra-parser)** — FTIR/UV-Vis instrument-export cleanup: JCAMP-DX + wide xlsx/csv → tidy data, Kirchhoff emissivity, ASTM G173 solar-weighted reflectance.
 - **[atmospheric-cooling-solver](https://github.com/ezthunder001/atmospheric-cooling-solver)** — interactive radiative-cooling energy-balance solver (SciPy `brentq`): any material, any climate, sensitivity sweep, validated against Raman et al. 2014 (*Nature*).
+- **[polymer-degradation-simulator](https://github.com/ezthunder001/polymer-degradation-simulator)** — Arrhenius time-temperature superposition: fit accelerated-aging data, extrapolate service-life timeline, bootstrap time-to-failure confidence interval.
 
 ---
 
