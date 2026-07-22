@@ -1,4 +1,4 @@
-### Hi, I'm Patawee (Pat) Sakata 👋
+### Hi, I'm Patawee (Ex) Sakata 👋
 
 Postdoctoral Researcher, Mahidol University — Advanced Technologies for Energy and Sustainability Lab.
 PhD Materials Science & Engineering. 9 peer-reviewed papers (h-index 6), 2 Thai patents, on radiative cooling coatings for tropical climates.
