@@ -25,6 +25,7 @@ Now building the computational + software side: Python, ML surrogates, building 
 - **[citation-network-analyzer](https://github.com/ezthunder001/citation-network-analyzer)** ([live demo](https://citation-network-analyzer.streamlit.app/)) — NetworkX + Plotly citation network over the public Semantic Scholar API: PageRank, community detection, interactive graph (demoed on my own published paper).
 - **[chemical-inventory-registry](https://github.com/ezthunder001/chemical-inventory-registry)** ([live demo](https://chemical-inventory-registry.streamlit.app/)) — FIFO chemical inventory tracking over raw SQLite SQL: batch deduction, expiry/low-stock alerts, per-experiment traceability.
 - **[fmea-materials-forecaster](https://github.com/ezthunder001/fmea-materials-forecaster)** ([live demo](https://fmea-materials-forecaster.streamlit.app/)) — FMEA risk register + Weibull/Kaplan-Meier survival analysis + scikit-learn failure-probability classifier for censored materials lifetime data.
+- **[job-market-skill-tracker](https://github.com/ezthunder001/job-market-skill-tracker)** ([live demo](https://job-market-skill-tracker.streamlit.app/)) — real job-market data (927 postings, 2 keyless APIs): skill-demand analysis, KMeans clustering into job archetypes, honest salary-coverage gating (3.6% coverage → no forced model).
 
 ---
 
