@@ -24,6 +24,7 @@ Now building the computational + software side: Python, ML surrogates, building 
 - **[polymer-degradation-simulator](https://github.com/ezthunder001/polymer-degradation-simulator)** — Arrhenius time-temperature superposition: fit accelerated-aging data, extrapolate service-life timeline, bootstrap time-to-failure confidence interval.
 - **[citation-network-analyzer](https://github.com/ezthunder001/citation-network-analyzer)** — NetworkX + Plotly citation network over the public Semantic Scholar API: PageRank, community detection, interactive graph (demoed on my own published paper).
 - **[chemical-inventory-registry](https://github.com/ezthunder001/chemical-inventory-registry)** — FIFO chemical inventory tracking over raw SQLite SQL: batch deduction, expiry/low-stock alerts, per-experiment traceability.
+- **[fmea-materials-forecaster](https://github.com/ezthunder001/fmea-materials-forecaster)** — FMEA risk register + Weibull/Kaplan-Meier survival analysis + scikit-learn failure-probability classifier for censored materials lifetime data.
 
 ---
 
