@@ -20,6 +20,7 @@ Now building the computational + software side: Python, ML surrogates, building 
 - **[bangkok-weather-aqi](https://github.com/ezthunder001/bangkok-weather-aqi)** ([live demo](https://bangkok-weather-aqi-e3sscrrv3wj4xhkgpjbg3y.streamlit.app/)) — Bangkok weather/AQI analytics dashboard: 7yr climate + 4yr PM2.5, ML next-day forecast (AUC 0.99 on RC-test-day go/no-go), physics-based radiative-cooling monthly model.
 - **[flavour-fingerprint](https://github.com/ezthunder001/flavour-fingerprint)** — Literature-mined coffee x yeast fermentation dataset + honest-null flavour-prediction model.
 - **[spectra-parser](https://github.com/ezthunder001/spectra-parser)** — FTIR/UV-Vis instrument-export cleanup: JCAMP-DX + wide xlsx/csv → tidy data, Kirchhoff emissivity, ASTM G173 solar-weighted reflectance.
+- **[atmospheric-cooling-solver](https://github.com/ezthunder001/atmospheric-cooling-solver)** — interactive radiative-cooling energy-balance solver (SciPy `brentq`): any material, any climate, sensitivity sweep, validated against Raman et al. 2014 (*Nature*).
 
 ---
 
