@@ -23,6 +23,7 @@ Now building the computational + software side: Python, ML surrogates, building 
 - **[atmospheric-cooling-solver](https://github.com/ezthunder001/atmospheric-cooling-solver)** — interactive radiative-cooling energy-balance solver (SciPy `brentq`): any material, any climate, sensitivity sweep, validated against Raman et al. 2014 (*Nature*).
 - **[polymer-degradation-simulator](https://github.com/ezthunder001/polymer-degradation-simulator)** — Arrhenius time-temperature superposition: fit accelerated-aging data, extrapolate service-life timeline, bootstrap time-to-failure confidence interval.
 - **[citation-network-analyzer](https://github.com/ezthunder001/citation-network-analyzer)** — NetworkX + Plotly citation network over the public Semantic Scholar API: PageRank, community detection, interactive graph (demoed on my own published paper).
+- **[chemical-inventory-registry](https://github.com/ezthunder001/chemical-inventory-registry)** — FIFO chemical inventory tracking over raw SQLite SQL: batch deduction, expiry/low-stock alerts, per-experiment traceability.
 
 ---
 
